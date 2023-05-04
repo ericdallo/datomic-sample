@@ -1,1 +1,1 @@
-{:deps {com.datomic/datomic-pro {:mvn/version "1.0.6644"}}}
+{:deps {com.datomic/peer {:mvn/version "1.0.6726"}}}
